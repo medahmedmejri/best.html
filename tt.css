@@ -2,62 +2,74 @@
     background-color: rgb(24, 6, 6); 
     list-style-type:none;
     text-align: center;
-    margin: 80;
-    padding: 100;
+    margin: 50;
+    padding: 50;
   }
-  
+  body {
+    padding: 0;
+    margin: 0;
+
+  }
   #nav li {
     display: inline-block;
-    font-size:60px;
-    padding: 50px;
+    font-size:70px;
+    padding: 60px;
   }
   #po  {
     font-family: 'Roboto';font-size: 30px;
     background: rgb(135, 135, 212);
-    padding: 60px;
-    padding: 0;
-    margin: 0;
+    padding: 120px;
+    
 }
 #mo  {
   font-family: 'Roboto';font-size: 30px;
   background: rgb(127, 214, 127);
-  padding: 60px ;
+  padding: 120px ;
+  
 }
 #to  {
   font-family: 'Roboto';font-size: 30px;
   background:rgb(230, 148, 148);
-  padding: 60px;
+  padding: 120px;
 }
 #so  {
   font-family: 'Roboto';font-size: 30px;
   background: rgb(201, 12, 138);
-  padding: 60px;
+  padding: 120px;
 }
 #a{
   font-family: 'Roboto';font-size: 30px;
   background: rgb(135, 135, 212);
-  padding: 60px;
+  padding: 40px;
   font-size:50px;
   text-decoration: underline;
   
 }
 #b{ font-family: 'Roboto';font-size: 30px;
   background: rgb(127, 214, 127);
-  padding: 60px;
+  padding: 40px;
   font-size:50px;
   text-decoration: underline;
 }
   
   #d{ font-family: 'Roboto';font-size: 30px;
     background: rgb(201, 12, 138);
-    padding: 60px;
+    padding: 40px;
     font-size:50px;
     text-decoration: underline;
   }
 
   #c{ font-family: 'Roboto';font-size: 30px;
     background:rgb(230, 148, 148);
-    font-size:60px;
+    font-size:40px;
     font-size:50px;
     text-decoration: underline;
   }
+  #kk{ font-family: 'Roboto';font-size: 30px;
+    background:rgb(163, 9, 9);
+    font-size:30px;
+    font-size:30px;
+    text-decoration: underline;
+  }
+  
+  
